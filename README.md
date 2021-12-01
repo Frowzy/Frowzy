@@ -22,7 +22,7 @@ I maintain a thin internet presence. If you wish to reach me, you may do so via 
 
 ## Misc info
 
-I am a fan of TV shows. In recent times I've enjoyed the detective drama *True Detective* on HBO and *House* on Fox.
+I am a fan of TV shows. In recent times I've enjoyed the detective drama *"True Detective"* on HBO and the medical drama *"House"* on Fox.
 
 I've been a tech enthusiast for quite some time now and I most particularly enjoy tinkering with tech that may be deemed obsolete and vintage by today's standards and bringing them a new lease on life. My most recent project was an iPod Video I had the pleasure of restoring and replacing the 30GB hard drive with a 128GB SD card. 
 
