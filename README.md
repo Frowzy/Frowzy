@@ -28,5 +28,7 @@ I've been a tech enthusiast for quite some time now and I most particularly enjo
 
 Anyhow, thanks for coming. 
 
-##### Have a good one. :P)
+Take care.
+
+:P)
 
