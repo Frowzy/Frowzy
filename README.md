@@ -11,7 +11,6 @@ I primarily write code for the web, usually doing both front and back-ends on ob
 
 I'm currently working on a static website for which I hope to replace this README. It'll be located [here](https://frowzy.github.io/) and will contain far more information once I get to it. I'm often preoccupied with my education and work, so it will take some time before I get to it.
 
-*[TL;DR]: Too long, Didn't Read
 In the time being, here's a TL;DR:
 
 ## The deets
