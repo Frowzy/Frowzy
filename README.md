@@ -3,7 +3,7 @@
 
 # Heyo. I'm Frowzy.
 
-#### Welcome to my page!
+## Welcome to my page!
 
 I'm currently working on a static website for which I hope to replace this README. It'll be located [here](https://frowzy.github.io/) and will contain far more information once I get to it. I'm often preoccupied with my education and work, so it will take some time before I get to it.
 
